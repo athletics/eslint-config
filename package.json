@@ -4,7 +4,6 @@
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
   "repository": "https://github.com/athletics/eslint-config-athletics",
-
   "scripts": {
     "test": "eslint -c index.js --env node ./"
   },
