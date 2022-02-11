@@ -1,5 +1,5 @@
 {
-  "name": "@athletics/eslint-config-athletics",
+  "name": "eslint-config-athletics",
   "version": "1.0.0",
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
