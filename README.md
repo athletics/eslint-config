@@ -1,6 +1,6 @@
 # eslint-config-athletics
 
-This configuration is designed to be used with [ESLint][]. In order to use it in your project, first install the npm module:
+This configuration is designed to be used with ESLint. In order to use it in your project, first install the npm module:
 
 ```bash
 npm install --save-dev eslint-config-athletics
