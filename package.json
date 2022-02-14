@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/athletics/eslint-config",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "eslint -c index.js --env node ./"
