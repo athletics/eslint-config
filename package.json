@@ -10,7 +10,7 @@
   "scripts": {
     "test": "eslint -c index.js --env node ./"
   },
-  "author": "tech@athleticsnyc.com",
+  "author": "Athletics <tech@athleticsnyc.com> (https://athleticsnyc.com)",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.8.0",
