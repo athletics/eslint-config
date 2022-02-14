@@ -1,6 +1,6 @@
 {
   "name": "@athletics/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
   "repository": "https://github.com/athletics/eslint-config",
