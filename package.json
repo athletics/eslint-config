@@ -1,9 +1,12 @@
 {
-  "name": "@athletics/eslint-config-athletics",
-  "version": "1.0.2",
+  "name": "@athletics/eslint-config",
+  "version": "1.0.3",
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
-  "repository": "https://github.com/athletics/eslint-config-athletics",
+  "repository": "https://github.com/athletics/eslint-config",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "eslint -c index.js --env node ./"
   },
